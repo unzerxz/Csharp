@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\aula_1.csproj": {}
+    "C:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\aula_1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\aula_1.csproj": {
+    "C:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\aula_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\aula_1.csproj",
+        "projectUniqueName": "C:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\aula_1.csproj",
         "projectName": "aula_1",
-        "projectPath": "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\aula_1.csproj",
+        "projectPath": "C:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\aula_1.csproj",
         "packagesPath": "C:\\Users\\unzerxz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\obj\\",
+        "outputPath": "C:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\CURSO\\aula_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\unzerxz\\AppData\\Roaming\\NuGet\\NuGet.Config"
