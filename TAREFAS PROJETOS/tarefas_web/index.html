@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gestão de Tarefas</title>
+  <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="lib/bootstrap-icons-1.11.0/bootstrap-icons.css">
+</head>
+
+<body>
+
+  <header> <!--inicio do header-->
+    <div class="container bg-dark text-white p-4">
+      <h1><i class="bi bi-calendar3"></i> Gestão de Tarefas</h1>
+      <p>Aplicação de gerenciamento de tarefas a serem realizadas</p>
+    </div>
+  </header> <!--final do header-->
+
+  <main> <!--inicio do main-->
+    <div class="container bg-light">
+      <div class="card m-3 border-primary">
+        <div class="card-header bg-primary text-white">
+          <h4>Nova tarefa</h4>
+        </div>
+        <div class="card-body">
+          <div class="input-group mb-3">
+            <span class="input-group-text">Descrição</span>
+            <input type="text" class="form-control focus-ring" style="--bs-focus-ring-width: 0rem;"
+              placeholder="Informe a descrição" aria-label="Recipient's username" aria-describedby="button-addon2">
+            <button class="btn btn-primary" type="button" id="button-addon2">Cadastrar</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="progress m-3" role="progressbar" aria-label="Example with label" aria-valuenow="25" aria-valuemin="0"
+        aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width: 25%">25%</div>
+      </div>
+
+      <div class="card m-3">
+
+        <div class="card-header">
+          <h5>Listagem de Tarefas</h5>
+        </div>
+
+        <div class="card-body">
+          <table class="table">
+            <thead>
+              <th>ID</th>
+              <th>SITUAÇÂO</th>
+              <th>DESCRIÇÂO</th>
+              <th>AÇÂO</th>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>PENDENTE</td>
+                <td>ESTUDAR MAIS BOOTSTRAP</td>
+                <td><button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    PENDENTE
+                  </button></td>
+              </tr>
+            </tbody>
+        </div>
+        </table>
+      </div>
+
+      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5" id="exampleModalLabel">Concluir tarefa</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              Deseja realmente concluir a tarefa?
+              <br>
+              Se sim clique em concluir
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+              <button type="button" class="btn btn-primary">Concluir Tarefa</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </main> <!--final do main-->
+
+  <footer> <!--inicio do footer-->
+    <div class="container bg-dark text-white text-center p-2">
+      <p>Gestão de Tarefas - Desenvolvido por Lucas Unzer.</p>
+    </div>
+  </footer> <!--final do footer-->
+
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="js/scripts.js"></script>
+
+</body>
+
+</html>

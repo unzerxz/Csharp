@@ -1,0 +1,14 @@
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\LISTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\LISTAS.AssemblyInfoInputs.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\LISTAS.AssemblyInfo.cs
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\LISTAS.csproj.CoreCompileInputs.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\bin\Debug\net7.0\LISTAS.exe
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\bin\Debug\net7.0\LISTAS.deps.json
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\bin\Debug\net7.0\LISTAS.runtimeconfig.json
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\bin\Debug\net7.0\LISTAS.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\bin\Debug\net7.0\LISTAS.pdb
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\LISTAS.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\refint\LISTAS.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\LISTAS.pdb
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\LISTAS.genruntimeconfig.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\LISTAS\obj\Debug\net7.0\ref\LISTAS.dll

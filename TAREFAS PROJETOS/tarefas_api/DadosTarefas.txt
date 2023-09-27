@@ -1,0 +1,4 @@
+1|string|False
+2|TEste do Teste|True
+3|Resolver o sumiço|True
+4|fazer curso de java|False

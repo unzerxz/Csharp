@@ -1,0 +1,28 @@
+C:\projetos\sample1\bin\Debug\net7.0\sample1.exe
+C:\projetos\sample1\bin\Debug\net7.0\sample1.deps.json
+C:\projetos\sample1\bin\Debug\net7.0\sample1.runtimeconfig.json
+C:\projetos\sample1\bin\Debug\net7.0\sample1.dll
+C:\projetos\sample1\bin\Debug\net7.0\sample1.pdb
+C:\projetos\sample1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\sample1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+C:\projetos\sample1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+C:\projetos\sample1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+C:\projetos\sample1\obj\Debug\net7.0\sample1.dll
+C:\projetos\sample1\obj\Debug\net7.0\refint\sample1.dll
+C:\projetos\sample1\obj\Debug\net7.0\sample1.pdb
+C:\projetos\sample1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+C:\projetos\sample1\obj\Debug\net7.0\ref\sample1.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\bin\Debug\net7.0\sample1.exe
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\bin\Debug\net7.0\sample1.deps.json
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\bin\Debug\net7.0\sample1.runtimeconfig.json
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\bin\Debug\net7.0\sample1.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\bin\Debug\net7.0\sample1.pdb
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\sample1.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\refint\sample1.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\sample1.pdb
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\AULA 1\obj\Debug\net7.0\ref\sample1.dll

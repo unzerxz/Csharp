@@ -1,0 +1,14 @@
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\ALUNOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\ALUNOS.AssemblyInfoInputs.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\ALUNOS.AssemblyInfo.cs
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\ALUNOS.csproj.CoreCompileInputs.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\bin\Debug\net7.0\ALUNOS.exe
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\bin\Debug\net7.0\ALUNOS.deps.json
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\bin\Debug\net7.0\ALUNOS.runtimeconfig.json
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\bin\Debug\net7.0\ALUNOS.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\bin\Debug\net7.0\ALUNOS.pdb
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\ALUNOS.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\refint\ALUNOS.dll
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\ALUNOS.pdb
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\ALUNOS.genruntimeconfig.cache
+C:\Users\lucas.unzer\Documents\unzer\AULA DO CARLÃO\UC-POO\C#\ALUNOS\obj\Debug\net7.0\ref\ALUNOS.dll
