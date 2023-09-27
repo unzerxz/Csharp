@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\AULA 1\\sample1.csproj": {}
+    "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\BANDAS\\sample1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\AULA 1\\sample1.csproj": {
+    "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\BANDAS\\sample1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\AULA 1\\sample1.csproj",
+        "projectUniqueName": "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\BANDAS\\sample1.csproj",
         "projectName": "sample1",
-        "projectPath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\AULA 1\\sample1.csproj",
-        "packagesPath": "C:\\Users\\lucas.unzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\AULA 1\\obj\\",
+        "projectPath": "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\BANDAS\\sample1.csproj",
+        "packagesPath": "C:\\Users\\unzerxz\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\unzerxz\\Documents\\GitHub\\Csharp\\BANDAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas.unzer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\unzerxz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
