@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj": {}
+    "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj": {
+    "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj",
         "projectName": "tarefas_api",
-        "projectPath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj",
+        "projectPath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj",
         "packagesPath": "C:\\Users\\lucas.unzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\TAREFAS PROJETOS\\tarefas_api\\obj\\",
+        "outputPath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\TAREFAS PROJETOS\\tarefas_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.unzer\\AppData\\Roaming\\NuGet\\NuGet.Config"

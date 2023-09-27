@@ -1,19 +1,86 @@
-//var nome = prompt("Qual o seu nome??")
-//nome = 10
-//resultado = nome + 10 
-//console.log(`a variavel nome é: ${resultado}`)
-
 function CarregarTarefas() {
     var url = "http://localhost:5261/api/Tarefa"
 
     fetch(url)
         .then(response => response.json())
-        .then(function (data){
+        .then(function (data) {
             console.log(data)
+            data.forEach(item => {
+                InserirLinha(item.id, item.descricao, item.isConcluido)
+            })
         })
-        .catch(function (error){
+        .catch(function (error) {
             console.log("DEU RUIM" + error)
         })
 }
 
 CarregarTarefas()
+
+function InserirLinha(id, descricao, isConcluido) {
+    var tabela = document.getElementById("tbTarefas")
+    var nlinhas = tabela.rows.length
+    var linha = tabela.insertRow(nlinhas)
+
+    var celula1 = linha.insertCell(0)
+    var celula2 = linha.insertCell(1)
+    var celula3 = linha.insertCell(2)
+    var celula4 = linha.insertCell(3)
+
+    celula1.innerHTML = id
+    celula2.innerHTML = (isConcluido ? "Concluído" : "Pendente")
+    celula3.innerHTML = descricao
+    celula4.innerHTML = (isConcluido ?
+        `<button class='btn btn-success'>Concluído</button>` :
+        `<button class='btn btn-warning' onclick='abrirModal(${id})'>Pendente</button>`);
+
+}
+
+function criarTarefa(txt_descricao) {
+    var url = "http://localhost:5261/api/Tarefa"
+
+    var conteudo = {
+        id: 1,
+        descricao: txt_descricao,
+        isConcluido: false
+    }
+
+    var cabecalho = {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(conteudo)
+    }
+
+    fetch(url, cabecalho)
+        .catch((error) => {
+            console.log("DEU RUIM:" + error)
+        })
+}
+
+function abrirModal(id) {
+    var modal = document.getElementById('confirmarModal')
+    var myModal = new bootstrap.Modal(modal)
+    var botao = document.getElementById('btConcluir')
+
+    botao.setAttribute('onclick', `atualizarTarefa(${id})`)
+
+    myModal.show()
+}
+
+function atualizarTarefa(id) {
+    var url = "http://localhost:5261/api/Tarefa/" + id;
+
+    var conteudo = {
+        id: id
+    }
+
+    var cabecalho = {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(conteudo)
+    }
+
+    fetch(url, cabecalho)
+        .catch((error) => {
+            console.log("DEU RUIM:" + error)
+        })
+}

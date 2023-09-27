@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B3FsIh9OgihmOjwtTtLts3l2hyZUIi3zrbfoaNyZCSaD/M83qUzSMJYRYP/hVJUFb2qcrm6PxJXA5Inv4UF2gQ==",
+  "dgSpecHash": "EPUeuyAw47BghTVVWZCIKQa0AYYOCG8+1tHOJarI3HymuXGAEdtBkOJhH4DYnCuayLc//l3AAGa3YAEY1VRK5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\AULA DO CARLÃO\\UC-POO\\C#\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj",
+  "projectFilePath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\TAREFAS PROJETOS\\tarefas_api\\tarefas_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.unzer\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\lucas.unzer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

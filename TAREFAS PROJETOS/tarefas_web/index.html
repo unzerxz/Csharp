@@ -27,9 +27,10 @@
         <div class="card-body">
           <div class="input-group mb-3">
             <span class="input-group-text">Descrição</span>
-            <input type="text" class="form-control focus-ring" style="--bs-focus-ring-width: 0rem;"
-              placeholder="Informe a descrição" aria-label="Recipient's username" aria-describedby="button-addon2">
-            <button class="btn btn-primary" type="button" id="button-addon2">Cadastrar</button>
+            <input id="txt_descricao" type="text" class="form-control focus-ring" style="--bs-focus-ring-width: 0rem;"
+              placeholder="Informe a descricao" aria-label="Recipient's username" aria-describedby="button-addon2">
+            <button onclick="criarTarefa(txt_descricao.value)" class="btn btn-primary" type="button"
+              id="button-addon2">Cadastrar</button>
           </div>
         </div>
       </div>
@@ -46,7 +47,7 @@
         </div>
 
         <div class="card-body">
-          <table class="table">
+          <table class="table" id="tbTarefas">
             <thead>
               <th>ID</th>
               <th>SITUAÇÂO</th>
@@ -56,19 +57,20 @@
 
             <tbody>
               <tr>
-                <td>1</td>
+                <!-- <td>1</td>
                 <td>PENDENTE</td>
                 <td>ESTUDAR MAIS BOOTSTRAP</td>
                 <td><button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">
                     PENDENTE
                   </button></td>
-              </tr>
+              </tr> -->
             </tbody>
         </div>
         </table>
       </div>
 
-      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <!--MODAL-->
+      <div class="modal fade" id="confirmarModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
@@ -82,7 +84,7 @@
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-              <button type="button" class="btn btn-primary">Concluir Tarefa</button>
+              <button type="button" class="btn btn-primary" id="btConcluir">Concluir Tarefa</button>
             </div>
           </div>
         </div>

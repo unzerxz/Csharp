@@ -1,4 +1,6 @@
-1|string|False
+1|string|True
 2|TEste do Teste|True
 3|Resolver o sumiço|True
 4|fazer curso de java|False
+5|aprendendo cshrpe|False
+6|se Deus quiser deu certo|False
