@@ -1,4 +1,0 @@
-C:\Users\unzerxz\Documents\GitHub\Csharp\CURSO\aula_1\obj\Debug\net7.0\aula_1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\unzerxz\Documents\GitHub\Csharp\CURSO\aula_1\obj\Debug\net7.0\aula_1.AssemblyInfoInputs.cache
-C:\Users\unzerxz\Documents\GitHub\Csharp\CURSO\aula_1\obj\Debug\net7.0\aula_1.AssemblyInfo.cs
-C:\Users\unzerxz\Documents\GitHub\Csharp\CURSO\aula_1\obj\Debug\net7.0\aula_1.csproj.CoreCompileInputs.cache
