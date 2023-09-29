@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lista_api
+build_property.RootNamespace = lista_api
+build_property.ProjectDir = c:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api
+build_property._RazorSourceGeneratorDebug = 

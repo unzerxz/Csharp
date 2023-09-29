@@ -1,0 +1,4 @@
+1|Carlos Cavalheiro|https://media.licdn.com/dms/image/C4D03AQESHUZT-dgwAA/profile-displayphoto-shrink_800_800/0/1600254882358?e=1701302400&v=beta&t=VKwEVF4AjypPIhbLSNPIOWXYSYAgLxiDENiLhijXynE|carlos|carlos|True
+2|José Eugênio de Mira|https://media.licdn.com/dms/image/C4D03AQFgN04ZV5CG4A/profile-displayphoto-shrink_800_800/0/1582928049634?e=1701302400&v=beta&t=3eDez20gixY8TxTe82b1Yyc5RrpAM2XmZ4dP-hTEe8Y|mira|Senai123|False
+3|Rodolfo Gamaliel|https://media.licdn.com/dms/image/C4E03AQGa-wzQmfMP0w/profile-displayphoto-shrink_200_200/0/1517375512151?e=1701302400&v=beta&t=adzjmyY1HUINPvwBt9FHUlhNHGKcw2O_V5CJLnGtF1k|gamaliel|Senai123|False
+4|Alessando Figueiredo|https://media.licdn.com/dms/image/D4D03AQGHkAWy18g4cA/profile-displayphoto-shrink_200_200/0/1668261605058?e=1701302400&v=beta&t=xcmmvWmW7jbK2OI5hwazOe2ciX67t8-aVS7wIs5qP88|figueiredo|undefined|False

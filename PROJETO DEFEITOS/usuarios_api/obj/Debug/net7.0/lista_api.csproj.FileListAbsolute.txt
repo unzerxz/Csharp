@@ -1,0 +1,132 @@
+C:\Projetos\lista_api\bin\Debug\net7.0\appsettings.Development.json
+C:\Projetos\lista_api\bin\Debug\net7.0\appsettings.json
+C:\Projetos\lista_api\bin\Debug\net7.0\lista_api.exe
+C:\Projetos\lista_api\bin\Debug\net7.0\lista_api.deps.json
+C:\Projetos\lista_api\bin\Debug\net7.0\lista_api.runtimeconfig.json
+C:\Projetos\lista_api\bin\Debug\net7.0\lista_api.dll
+C:\Projetos\lista_api\bin\Debug\net7.0\lista_api.pdb
+C:\Projetos\lista_api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projetos\lista_api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Projetos\lista_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\lista_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\lista_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.csproj.AssemblyReference.cache
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.AssemblyInfoInputs.cache
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.AssemblyInfo.cs
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.csproj.CoreCompileInputs.cache
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\lista_api\obj\Debug\net7.0\staticwebassets\msbuild.lista_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\lista_api\obj\Debug\net7.0\staticwebassets\msbuild.build.lista_api.props
+C:\Projetos\lista_api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lista_api.props
+C:\Projetos\lista_api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lista_api.props
+C:\Projetos\lista_api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Projetos\lista_api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Projetos\lista_api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Projetos\lista_api\obj\Debug\net7.0\scopedcss\bundle\lista_api.styles.css
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.csproj.CopyComplete
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.dll
+C:\Projetos\lista_api\obj\Debug\net7.0\refint\lista_api.dll
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.pdb
+C:\Projetos\lista_api\obj\Debug\net7.0\lista_api.genruntimeconfig.cache
+C:\Projetos\lista_api\obj\Debug\net7.0\ref\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\appsettings.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\lista_api.exe
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\lista_api.deps.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\lista_api.runtimeconfig.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\lista_api.pdb
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.csproj.AssemblyReference.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.AssemblyInfoInputs.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.AssemblyInfo.cs
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\staticwebassets\msbuild.lista_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\staticwebassets\msbuild.build.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\scopedcss\bundle\lista_api.styles.css
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.csproj.CopyComplete
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\refint\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.pdb
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\lista_api.genruntimeconfig.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\obj\Debug\net7.0\ref\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\appsettings.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\lista_api.exe
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\lista_api.deps.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\lista_api.runtimeconfig.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\lista_api.pdb
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.csproj.AssemblyReference.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.AssemblyInfoInputs.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.AssemblyInfo.cs
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\staticwebassets\msbuild.lista_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\staticwebassets\msbuild.build.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\scopedcss\bundle\lista_api.styles.css
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.csproj.CopyComplete
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\refint\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.pdb
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\lista_api.genruntimeconfig.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_api\tarefas_api\obj\Debug\net7.0\ref\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\appsettings.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\lista_api.exe
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\lista_api.deps.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\lista_api.runtimeconfig.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\lista_api.pdb
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.csproj.AssemblyReference.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.AssemblyInfoInputs.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.AssemblyInfo.cs
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\staticwebassets\msbuild.lista_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\staticwebassets\msbuild.build.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lista_api.props
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\scopedcss\bundle\lista_api.styles.css
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.csproj.CopyComplete
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\refint\lista_api.dll
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.pdb
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\lista_api.genruntimeconfig.cache
+C:\Users\Carlos Cavalheiro\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\SENAI - 2023\UC - Fundamentos de POO\02-Orientação a Objetos com C#\Ex2 - lista_de_tarefas_projeto\tarefas_api\obj\Debug\net7.0\ref\lista_api.dll
