@@ -64,8 +64,7 @@ function inserirLinha(id, imagemUsuario, isAtivo, nomeCompleto, nomeUsuario, sen
 
 }
 
-
-CarregarTodosUsuarios()
+inserirLinha();
 
 function adicionarUsuario() {
 
