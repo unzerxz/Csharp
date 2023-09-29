@@ -26,7 +26,7 @@ namespace usuarios_api.Controllers
 
             return lines.Select(line =>
             {
-                var parts = line.Split('!');
+                var parts = line.Split('|');
 
                 return new Usuario
                 {
@@ -65,7 +65,7 @@ namespace usuarios_api.Controllers
         public IActionResult CriarUsuario(Usuario usuario)
         {
             var listaUsuarios = CarregarUsuarios();
-            usuario.Id = listaUsuarios.Count() > 0 ? listaUsuarios.First().Id + 1 : 1;
+            usuario.Id = listaUsuarios.Count() > 0 ? listaUsuarios.Max(u => u.Id) + 1 : 1;
 
             listaUsuarios.Add(usuario);
 
@@ -93,7 +93,7 @@ namespace usuarios_api.Controllers
 
             SalvarUsuario(listaUsuarios);
 
-            return Ok(usuario);
+            return Ok(existeUsuario);
         }
 
         [HttpPut("AtivaDesativa/{id}")]

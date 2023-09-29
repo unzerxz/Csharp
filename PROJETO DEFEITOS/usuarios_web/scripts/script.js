@@ -1,6 +1,6 @@
 //função de carregar janela
 function CarregarUsuarios() {
-    Const(urlAPI) = 'http://localhost:5088/api/Usuario';
+    const urlAPI = 'http://localhost:5088/api/Usuario';
 
     fetch(urlAPI)
         .then(response => response.json())
@@ -41,15 +41,15 @@ CarregarUsuarios();
 
 function inserirLinha(id, imagemUsuario, isAtivo, nomeCompleto, nomeUsuario, senha) {
 
-    var tabela = document.getElementById("tbUsuarios");
+    var tabela = document.getElementById("tabelaUsuarios");
     var numeroLinhas = tabela.rows.length;
     var linha = tabela.insertRow(numeroLinhas);
 
-    var celula1 = linha.insertCell(1);
-    var celula2 = linha.insertCell(2);
-    var celula3 = linha.insertCell(3);
-    var celula4 = linha.insertCell(4);
-    var celula5 = linha.insertCell(5);
+    var celula1 = linha.insertCell(0);
+    var celula2 = linha.insertCell(1);
+    var celula3 = linha.insertCell(2);
+    var celula4 = linha.insertCell(3);
+    var celula5 = linha.insertCell(4);
 
     celula1.innerHTML = id;
     celula2.innerHTML = (isAtivo ? '<i class="bi bi-person-check text-success display-6"></i>' : '<i class="bi bi-person-x text-danger display-6"></i>');
