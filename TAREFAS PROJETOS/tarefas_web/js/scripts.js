@@ -5,9 +5,21 @@ function CarregarTarefas() {
         .then(response => response.json())
         .then(function (data) {
             console.log(data)
+
+            var tarefas_concluidas = 0
+            var tarefas_totais = 0
+            var progresso = document.getElementById('dvProgresso')
+
             data.forEach(item => {
                 InserirLinha(item.id, item.descricao, item.isConcluido)
+                tarefas_totais++
+                if (item.isConcluido)
+                    tarefas_concluidas++
             })
+            var tamanho = (tarefas_concluidas / tarefas_totais) * 100
+            progresso.setAttribute('style', `width: ${tamanho}%;`)
+            progresso.innerText = `${tamanho.toPrecision(3)}% Concluido`
+
         })
         .catch(function (error) {
             console.log("DEU RUIM" + error)

@@ -2,6 +2,6 @@
 2|TEste do Teste|True
 3|Resolver o sumiço|True
 4|fazer curso de java|True
-5|aprendendo cshrpe|False
-6|se Deus quiser deu certo|False
+5|aprendendo cshrpe|True
+6|se Deus quiser deu certo|True
 7|testando github|True
