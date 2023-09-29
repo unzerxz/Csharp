@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace usuarios_api.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]    
+    [Route("api/[controller]")]
     public class UsuarioController : Controller
     {
         private readonly string BancoDeDados = "DadosUsuarios.txt";
@@ -22,7 +22,7 @@ namespace usuarios_api.Controllers
                 return new List<Usuario>();
             }
 
-            var lines = System.IO.File.ReadAllBytes(BancoDeDados);
+            var lines = System.IO.File.ReadAllLines(BancoDeDados);
 
             return lines.Select(line =>
             {
@@ -48,12 +48,12 @@ namespace usuarios_api.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetUsuarioId(string id)
+        public IActionResult GetUsuarioId(int id)
         {
             var listaUsuarios = CarregarUsuarios();
             var usuario = listaUsuarios.FirstOrDefault(t => t.Id == id);
 
-            if (usuario  == null)
+            if (usuario == null)
             {
                 return NotFound();
             }
@@ -71,7 +71,7 @@ namespace usuarios_api.Controllers
 
             SalvarUsuario(listaUsuarios);
 
-            return CreatedAtAction(nameof(GetUsuarioId), new { id = usuario.Id }, usuario);            
+            return CreatedAtAction(nameof(GetUsuarioId), new { id = usuario.Id }, usuario);
         }
 
         [HttpPut("{id}")]
@@ -79,7 +79,7 @@ namespace usuarios_api.Controllers
         {
             var listaUsuarios = CarregarUsuarios();
             var existeUsuario = listaUsuarios.FirstOrDefault(t => t.Id == usuario.Id);
-            
+
             if (existeUsuario == null)
             {
                 return NotFound();
@@ -87,13 +87,13 @@ namespace usuarios_api.Controllers
 
             existeUsuario.NomeCompleto = usuario.NomeCompleto;
             existeUsuario.ImagemUsuario = usuario.ImagemUsuario;
-            existeUsuario.NomeUsuario = usuario.NomeCompleto;
+            existeUsuario.NomeUsuario = usuario.NomeUsuario;
             existeUsuario.Senha = usuario.Senha;
             existeUsuario.IsAtivo = usuario.IsAtivo;
 
             SalvarUsuario(listaUsuarios);
 
-            return Ok (usuario);
+            return Ok(usuario);
         }
 
         [HttpPut("AtivaDesativa/{id}")]
@@ -101,7 +101,7 @@ namespace usuarios_api.Controllers
         {
             var listaUsuarios = CarregarUsuarios();
             var existeUsuario = listaUsuarios.FirstOrDefault(t => t.Id == id);
-            
+
             if (existeUsuario == null)
             {
                 return NotFound();
@@ -111,7 +111,7 @@ namespace usuarios_api.Controllers
 
             SalvarUsuario(listaUsuarios);
 
-            return Ok (existeUsuario);
+            return Ok(existeUsuario);
         }
 
         private void SalvarUsuario(List<Usuario> listaUsuarios)

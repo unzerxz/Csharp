@@ -1,156 +1,169 @@
 <!DOCTYPE html>
 <html lang="pt-br" class="h-100">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gestão de Usuários</title>
 
-    <link href="./css/site.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="./lib/bootstrap-icons/font/bootstrap-icons.css">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gestão de Usuários</title>
+
+  <link href="./css/site.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
 
 </head>
-<body class="d-flex flex-column">    
-    <header class="header bg-dark text-white container">
-        <div class="container p-3">                        
-            <h1><i class="bi bi-people-fill"></i> Gestão de Usuários</h1>
-            <small>Aplicação de gerenciamento de usuários</small>
-        </div>
-    </header>
 
-    <main class="bg-light p-2 mt-auto h-100 container">
+<body class="d-flex flex-column">
+  <header class="header bg-dark text-white container">
+    <div class="container p-3">
+      <h1><i class="bi bi-people-fill"></i> Gestão de Usuários</h1>
+      <small>Aplicação de gerenciamento de usuários</small>
+    </div>
+  </header>
 
-        <!-- Modal Criar Usuário -->
-        <div class="modal fade" id="novoUsuarioModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Novo Usuário</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-              </div>
+  <main class="bg-light p-2 mt-auto h-100 container">
 
-              <form id="frmUsuario" class="row g-3 needs-validation" novalidate>
-              <div class="modal-body">
-                    <div class="col-12 m-1">
-                      <input type="text" class="form-control" id="nomeCompleto" placeholder="Nome Completo" required>
-                    </div>
-                    <div class="col-12 m-1">
-                      <input type="usuario" class="form-control" id="nomeUsuario" placeholder="Nome de Usuário" required>
-                    </div>
-                    <div class="col-12 m-1">
-                      <input type="password" class="form-control" id="senhaUsuario" placeholder="Senha do Usuário" required>
-                    </div>
-                    
-                    <div class="col-12 m-1">
-                      <input type="text" class="form-control" id="imagemUsuario" placeholder="Url da foto do usuário" required>
-                    </div>
-                    <div class="col-2 m-1">
-                      <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="isAtivo">
-                        <label class="form-check-label" for="isAtivo">
-                          Ativo
-                        </label>
-                      </div>
-                    </div>           
-              </div>
-              <div class="modal-footer">
-                <button type="submit" class="btn btn-primary" onclick="(this.form.checkValidity() ? this.form.onsubmit(adicionarUsuario()) : '')">Cadastrar</button>
-              </div>
-            </form>  
-            </div>
+    <!-- Modal Criar Usuário -->
+    <div class="modal fade" id="novoUsuarioModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Novo Usuário</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
-        </div>
 
-        <!-- Modal Editar Usuário -->
-        <div class="modal fade" id="editarUsuarioModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Editar Usuário</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          <form id="frmUsuario" class="row g-3 needs-validation" novalidate>
+            <div class="modal-body">
+              <div class="col-12 m-1">
+                <input type="text" class="form-control" id="nomeCompleto" placeholder="Nome Completo" required>
+              </div>
+              <div class="col-12 m-1">
+                <input type="usuario" class="form-control" id="nomeUsuario" placeholder="Nome de Usuário" required>
+              </div>
+              <div class="col-12 m-1">
+                <input type="password" class="form-control" id="senhaUsuario" placeholder="Senha do Usuário" required>
               </div>
 
-              <form id="frmUsuario" class="row g-3 needs-validation" novalidate>
-              <div class="modal-body">
-                    <div class="col-12 m-1">
-                      <input type="text" class="form-control" id="a_id" placeholder="Id" hidden>
-                    </div>  
-                    <div class="col-12 m-1">
-                      <input type="text" class="form-control" id="a_nomeCompleto" placeholder="Nome Completo" required>
-                    </div>
-                    <div class="col-12 m-1">
-                      <input type="usuario" class="form-control" id="a_nomeUsuario" placeholder="Nome de Usuário" required>
-                    </div>
-                    <div class="col-12 m-1">
-                      <input type="password" class="form-control" id="a_senhaUsuario" placeholder="Senha do Usuário" required>
-                    </div>
-                    
-                    <div class="col-12 m-1">
-                      <input type="text" class="form-control" id="a_imagemUsuario" placeholder="Url da foto do usuário" required>
-                    </div>
-                    <div class="col-2 m-1">
-                      <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="a_isAtivo" >
-                        <label class="form-check-label" for="a_isAtivo">
-                          Ativo
-                        </label>
-                      </div>
-                    </div>           
+              <div class="col-12 m-1">
+                <input type="text" class="form-control" id="imagemUsuario" placeholder="Url da foto do usuário"
+                  required>
               </div>
-              <div class="modal-footer">
-                <button type="submit" class="btn btn-primary" onclick="(this.form.checkValidity() ? this.form.onsubmit(atualizarUsuario()) : '')">Cadastrar</button>
+              <div class="col-2 m-1">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="isAtivo">
+                  <label class="form-check-label" for="isAtivo">
+                    Ativo
+                  </label>
+                </div>
               </div>
-            </form>  
             </div>
+            <div class="modal-footer">
+              <button type="submit" class="btn btn-primary"
+                onclick="(this.form.checkValidity() ? this.form.onsubmit(adicionarUsuario()) : '')">Cadastrar</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Editar Usuário -->
+    <div class="modal fade" id="editarUsuarioModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Editar Usuário</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
-        </div>
 
-        <div class="container mt-4">
-            <div class="progress mt-1" role="progressbar" aria-label="" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 0%" id="dvProgressoAtivos">Ativos</div>
-            </div>
-            <div class="progress mt-3" role="progressbar" aria-label="" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-              <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" style="width: 0%" id="dvProgressoDesativados">Desativados</div>
-          </div>
-        </div>
-
-        <div class="card mt-4">            
-            <div class="card-header d-flex">
-              <div class="col-10">
-                <h5><i class="bi bi-card-checklist"></i> Listagem de Usuários</h5>
+          <form id="frmUsuario" class="row g-3 needs-validation" novalidate>
+            <div class="modal-body">
+              <div class="col-12 m-1">
+                <input type="text" class="form-control" id="a_id" placeholder="Id" hidden>
               </div>
-              <div class="col-2 text-end">
-                <button type="button" class="btn btn-primary rounded-circle p-0 m-0 botao-usuario" data-bs-toggle="modal" data-bs-target="#novoUsuarioModal">
-                  <i class="bi bi-plus"></i>
-                </button>
+              <div class="col-12 m-1">
+                <input type="text" class="form-control" id="a_nomeCompleto" placeholder="Nome Completo" required>
+              </div>
+              <div class="col-12 m-1">
+                <input type="usuario" class="form-control" id="a_nomeUsuario" placeholder="Nome de Usuário" required>
+              </div>
+              <div class="col-12 m-1">
+                <input type="password" class="form-control" id="a_senhaUsuario" placeholder="Senha do Usuário" required>
+              </div>
+
+              <div class="col-12 m-1">
+                <input type="text" class="form-control" id="a_imagemUsuario" placeholder="Url da foto do usuário"
+                  required>
+              </div>
+              <div class="col-2 m-1">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="a_isAtivo">
+                  <label class="form-check-label" for="a_isAtivo">
+                    Ativo
+                  </label>
+                </div>
               </div>
             </div>
-
-            <div class="card-body">
-                <table class="table text-center" id="tabelaUsuarios">
-                    <thead>
-                        <tr>
-                            <th>Id</th>
-                            <th>Situação</th>
-                            <th>Foto</th>
-                            <th>Dados do Usuário</th>
-                            <th>Ação</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        
-                    </tbody>
-                </table>
+            <div class="modal-footer">
+              <button type="submit" class="btn btn-primary"
+                onclick="(this.form.checkValidity() ? this.form.onsubmit(atualizarUsuario()) : '')">Cadastrar</button>
             </div>
+          </form>
         </div>
+      </div>
+    </div>
 
-    </main>
-    <footer class="container mt-auto bg-dark text-white text-center p-3">        
-            <p>&copy; 2023 Gestão de Usuários - Desenvolvido por Carlos Cavalheiro</p>        
-    </footer>
+    <div class="container mt-4">
+      <div class="progress mt-1" role="progressbar" aria-label="" aria-valuenow="25" aria-valuemin="0"
+        aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 0%"
+          id="dvProgressoAtivos">Ativos</div>
+      </div>
+      <div class="progress mt-3" role="progressbar" aria-label="" aria-valuenow="25" aria-valuemin="0"
+        aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" style="width: 0%"
+          id="dvProgressoDesativados">Desativados</div>
+      </div>
+    </div>
+
+    <div class="card mt-4">
+      <div class="card-header d-flex">
+        <div class="col-10">
+          <h5><i class="bi bi-card-checklist"></i> Listagem de Usuários</h5>
+        </div>
+        <div class="col-2 text-end">
+          <button type="button" class="btn btn-primary rounded-circle p-0 m-0 botao-usuario" data-bs-toggle="modal"
+            data-bs-target="#novoUsuarioModal">
+            <i class="bi bi-plus"></i>
+          </button>
+        </div>
+      </div>
+
+      <div class="card-body">
+        <table class="table text-center" id="tabelaUsuarios">
+          <thead>
+            <tr>
+              <th>Id</th>
+              <th>Situação</th>
+              <th>Foto</th>
+              <th>Dados do Usuário</th>
+              <th>Ação</th>
+            </tr>
+          </thead>
+          <tbody>
+
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </main>
+  <footer class="container mt-auto bg-dark text-white text-center p-3">
+    <p>&copy; 2023 Gestão de Usuários - Desenvolvido por Carlos Cavalheiro</p>
+  </footer>
 
 
-    <script src="./scripts/script.js"></script>
-    
-    
+  <script src="./scripts/script.js"></script>
+
+
 </body>
+
 </html>

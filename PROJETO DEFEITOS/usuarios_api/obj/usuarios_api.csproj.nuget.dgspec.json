@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Cavalheiro\\OneDrive - SESISENAISP - Corporativo\\Meu Arquivos\\SENAI - 2023\\UC - Fundamentos de POO\\02-Orientação a Objetos com C#\\Ex3 - lista de usuario\\usuarios_api\\usuarios_api.csproj": {}
+    "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\PROJETO DEFEITOS\\usuarios_api\\usuarios_api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Cavalheiro\\OneDrive - SESISENAISP - Corporativo\\Meu Arquivos\\SENAI - 2023\\UC - Fundamentos de POO\\02-Orientação a Objetos com C#\\Ex3 - lista de usuario\\usuarios_api\\usuarios_api.csproj": {
+    "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\PROJETO DEFEITOS\\usuarios_api\\usuarios_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Cavalheiro\\OneDrive - SESISENAISP - Corporativo\\Meu Arquivos\\SENAI - 2023\\UC - Fundamentos de POO\\02-Orientação a Objetos com C#\\Ex3 - lista de usuario\\usuarios_api\\usuarios_api.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\PROJETO DEFEITOS\\usuarios_api\\usuarios_api.csproj",
         "projectName": "usuarios_api",
-        "projectPath": "C:\\Users\\Carlos Cavalheiro\\OneDrive - SESISENAISP - Corporativo\\Meu Arquivos\\SENAI - 2023\\UC - Fundamentos de POO\\02-Orientação a Objetos com C#\\Ex3 - lista de usuario\\usuarios_api\\usuarios_api.csproj",
-        "packagesPath": "C:\\Users\\Carlos Cavalheiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Cavalheiro\\OneDrive - SESISENAISP - Corporativo\\Meu Arquivos\\SENAI - 2023\\UC - Fundamentos de POO\\02-Orientação a Objetos com C#\\Ex3 - lista de usuario\\usuarios_api\\obj\\",
+        "projectPath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\PROJETO DEFEITOS\\usuarios_api\\usuarios_api.csproj",
+        "packagesPath": "C:\\Users\\lucas.unzer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.unzer\\Documents\\unzer\\CloneRepository\\Csharp\\PROJETO DEFEITOS\\usuarios_api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Carlos Cavalheiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lucas.unzer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
