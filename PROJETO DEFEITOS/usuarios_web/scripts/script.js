@@ -17,8 +17,12 @@ function CarregarUsuarios() {
 
                 totalUsuarios++;
 
-                if (element.isAtivo)
+                if (element.isAtivo) {
                     totalUsuarioAtivos++;
+                }
+                else {
+                    totalUsuarioDesativados++;
+                }
 
             });
 
@@ -56,7 +60,9 @@ function inserirLinha(id, imagemUsuario, isAtivo, nomeCompleto, nomeUsuario, sen
     celula3.innerHTML = `<img src='${imagemUsuario}' class='border rounded imagem-usuario'>`;
     celula4.innerHTML = `<p class='m-0 p-0 text-uppercase fw-bold'>${nomeCompleto} </p><p class='m-0 p-0 small'>Usuário: ${nomeUsuario} | Senha: ${('*').repeat(senha.length)}</p>`;
     celula5.innerHTML = `<button class='btn btn-primary rounded-circle botao-acao' onclick='abrirModal(${id})'><i class='bi bi-pencil-square'></i></button> 
-                         <button class='btn rounded-circle botao-acao ${(isAtivo ? 'btn-danger' : 'btn-success')}' onclick='ativarUsuario(${id})'><i class='bi ${(isAtivo ? 'bi-hand-thumbs-down-fill' : 'bi-hand-thumbs-up-fill')}'></i></button>`;
+                         <button class='btn rounded-circle botao-acao ${(isAtivo ? 'btn-danger' : 'btn-success')}' onclick='ativarUsuario(${id})'><i class='bi ${(isAtivo ? 'bi-hand-thumbs-down-fill' : 'bi-hand-thumbs-up-fill')}'></i></button>
+                         <button class='btn btn-dark rounded-circle botao-acao' onclick='DeletarUsuario(${id})' data-bs-toggle="modal" data-bs-target="#modal-delete"><i class='bi bi-trash'></i></button>
+                         `;
 
     celula2.setAttribute('class', 'align-middle');
     celula4.setAttribute('class', 'align-middle');
@@ -86,7 +92,7 @@ function adicionarUsuario() {
     };
 
     var options = {
-        method: 'GET',
+        method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(usuario),
     };
@@ -201,6 +207,56 @@ function ativarUsuario(id) {
         .catch(function (error) {
             console.log("DEU RUIM: " + error);
         })
+}
+
+function DeletarUsuario(id) {
+    const btn_deletar = document.getElementById('botao-modal-deletar')
+
+    const apiURL = `http://localhost:5088/api/Usuario/${id}`;
+
+    const options = {
+        method: 'GET',
+        headers: { 'Content-Type': 'application/json' }
+    };
+
+    fetch(apiURL, options)
+        .then(response => response.json())
+        .then(function (data) {
+            //data.NomeUsuario
+
+        })
+
+        .catch(function (error) {
+            console.log("DEU RUIM: " + error);
+        })
+
+
+
+    btn_deletar.addEventListener('click', () => {
+        try {
+
+            const envio = fetch(`http://localhost:5088/api/Usuario/${id}`, {
+                method: 'DELETE',
+                headers: {
+                    Accept: 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify()
+            })
+
+            if (envio.status == 201) {
+                console.log("DELETED with success")
+            } else {
+                console.log("[ERROR] Ocorreu um erro ao passar os dados à API...")
+            }
+
+        } catch (error) {
+
+            console.log(error)
+
+        }
+
+    })
 }
 
 //função que verifica os campos do formulário

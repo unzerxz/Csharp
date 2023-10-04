@@ -119,5 +119,24 @@ namespace usuarios_api.Controllers
             var linha = listaUsuarios.Select(t => $"{t.Id}|{t.NomeCompleto}|{t.ImagemUsuario}|{t.NomeUsuario}|{t.Senha}|{t.IsAtivo}");
             System.IO.File.WriteAllLines(BancoDeDados, linha);
         }
+
+
+        [HttpDelete("{id}")]
+        public IActionResult DeletarUsario(int id)
+        {
+            Usuario? usuario = new Usuario();
+            var listaDeUsuarios = CarregarUsuarios();
+
+            usuario = listaDeUsuarios.FirstOrDefault(x => x.Id == id);
+
+            if (usuario == null)
+            {
+                return NotFound();
+            }
+            listaDeUsuarios.Remove(usuario);
+            SalvarUsuario(listaDeUsuarios);
+
+            return NoContent();
+        }
     }
 }
